@@ -1,1 +1,1 @@
-# the-dicee-game
+# The Dicee Game
